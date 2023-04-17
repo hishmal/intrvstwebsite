@@ -1,0 +1,19 @@
+** Color Codes + Linear Gradient: **
+
+// HERO SECTION LINEAR GRADIENT:
+
+background: linear-gradient(97deg, rgb(2, 41, 245) 0%, rgb(54, 84, 247) 20%, rgb(106, 127, 248) 40%, rgb(203, 208, 252) 78%, rgb(211, 214, 252) 100%);
+
+// BODY
+
+White - #fff
+Blue (Button) - #1c4ccc
+
+// BOTTOM CARDS
+
+BLUE CARD: #4a86ec 
+GREEN CARD: #21b346
+YELLOW CARD: #f8ff89
+ORANGE CARD: #efab41
+PURPLE CARD: #971ce3
+RED CARD: #ff7f62
