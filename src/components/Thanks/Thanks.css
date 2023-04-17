@@ -1,0 +1,22 @@
+.center {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.center p {
+  margin-block-start: 1rem;
+  color: #4a556c;
+}
+
+.center h1 {
+  margin-block-start: 3rem;
+  color: #333461;
+}
+
+.center .btn {
+  width: 200px;
+  cursor: pointer;
+}
